@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xavsadiq
 - 👀 I’m interested in Fullstack Web Development and Data Analytics.
-- 🌱 I’m currently learning React and Node.js.
+- 🌱 I’m currently learning React and Redux.
 - 📫 How to reach me: xavsadiq@gmail.com
 
 <!---
