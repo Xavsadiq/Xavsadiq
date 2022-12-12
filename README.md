@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xavsadiq
-- 👀 I’m interested in Fullstack Web Development and Data Analytics.
-- 🌱 I’m currently learning React and Redux.
+- 👀 Data Engineer with a passion for solving data problems. 
+- 🌱 Experience building data pipelines, warehousing, modelling, and dashboarding. With an emphasis on these skills: SQL, Python, BigQuery, dbt, and Fivetran.
 - 📫 How to reach me: xavsadiq@gmail.com
 
 <!---
