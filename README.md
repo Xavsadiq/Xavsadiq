@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xavsadiq
-- 👀 Data Engineer with a passion for solving data problems. 
+- 👀 Data Engineer with a passion for solving problems. 
 - 🌱 Experience building data pipelines, warehousing, modelling, and dashboarding. With an emphasis on these skills: SQL, Python, BigQuery, dbt, and Fivetran.
 - 📫 How to reach me: xavsadiq@gmail.com
 
